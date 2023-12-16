@@ -32,8 +32,8 @@ public:
 
 # Stats 📊
 
-![ardhptr21's GitHub stats](https://github-readme-stats.vercel.app/api?username=andirhn&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhptr21&layout=compact)
+![andirhn's GitHub stats](https://github-readme-stats.vercel.app/api?username=andirhn&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andirhn&layout=compact)
 
 # Skills ⚡
 
