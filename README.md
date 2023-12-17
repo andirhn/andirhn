@@ -15,13 +15,13 @@ using namespace std;
 
 class About {
 public:
-    string name = "Andi Muh Raihan Alkawsar";
+    string name = "Andi Muhammad Raihan Alkawsar";
     string pronouns = "He | Him";
     string address = "Makassar, Sulawesi Selatan, Indonesia";
     string school = "SMKN 7 MAKASSAR";
 
     string getDescriptions() {
-        return "Hi, my name is " + name + ", currently I am a student at " + school + ". I really enjoy when writing code because it's like playing a game";
+        return "Hi, my name is " << name << ", currently I am a student at " << school << ". I really enjoy when writing code because it's like playing a game";
     }
 
     string getFutureGoal() {
